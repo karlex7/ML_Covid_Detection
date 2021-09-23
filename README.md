@@ -20,3 +20,9 @@ The goal of our algorithm is to decide if someone has or has not corona virus, s
 classification task. This is a medical trail and our goal is to include all patients that are sick which means
 we want high recall. The worst thing that can happen to us is that we classify a positive person as
 negative which is False Negative, and we want to avoid that.
+
+## Getting Started
+
+### Dependencies
+
+* python 3.8, pandas, numpy, matplotlib, sklearn, seaborn, xgboost
