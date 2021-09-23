@@ -46,5 +46,5 @@ Karlo Hren
 
 ## License
 
-This project is licensed under the Karlo Hren License - see the LICENSE.md file for details
+This project is licensed under the Karlo Hren License
 
