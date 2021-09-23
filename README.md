@@ -35,4 +35,16 @@ negative which is False Negative, and we want to avoid that.
 
 * Code can be run in any python IDE
 
+## Authors
+
+Karlo Hren
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the Karlo Hren License - see the LICENSE.md file for details
 
