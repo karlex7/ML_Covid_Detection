@@ -26,3 +26,13 @@ negative which is False Negative, and we want to avoid that.
 ### Dependencies
 
 * python 3.8, pandas, numpy, matplotlib, sklearn, seaborn, xgboost
+
+### Installing
+
+* You can download the project folder
+
+### Executing program
+
+* Code can be run in any python IDE
+
+
